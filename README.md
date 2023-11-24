@@ -1,15 +1,49 @@
-<h1>Hi, I'm Divine! <br/><a href="https://github.com/joshmadakor1">Computer Network Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">General IT Professional</a></h1>
+<h1>Hi, I'm Divine! <br/><a>Computer Network Technician</a>, <a>Cybersecurity Professional</a>, <a>General IT Professional</a></h1>
+
 <h2>👀 About Me: </h2>
 
-<h2>👨🏽‍🎓 Education: </h2>
+<b> I am currently a student in Centennial College Ontario studying Computer System Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
 
-<h2>👨🏿‍💻 Certifications: </h2>
+## 👨🏽‍🎓 Education:
+
+- **High School Diploma:**
+  - Stella Maris, Abuja, Nigeria (07/2017)
+
+- **Ontario College Certificate:**
+  - Computer Repair and Maintenance, Centennial College, Scarborough, ON (06/2022)
+
+- **Ontario College Advanced Diploma:**
+  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 06/2024)
+
+
+## 👨🏿‍💻 Certifications:
+
+- LinkedIn Learning Microsoft Office 365: Administration
+- Linux Commands and Shell Scripting (IBM edx)
+- Computer Repair and Maintenance (Centennial College)
+
+
 
 <h2>💻 General IT Projects: </h2>
 
 <h2>🔐 Cyber Security Projects: </h2>
 
+<!-- ## 💻 General IT Projects:
 
+- Project 1: [Project Name]
+  - Brief description...
+
+- Project 2: [Project Name]
+  - Brief description...
+  
+## 🔐 Cyber Security Projects:
+
+- Project 1: [Project Name]
+  - Brief description...
+
+- Project 2: [Project Name]
+  - Brief description...
+-->
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
