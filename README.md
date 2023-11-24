@@ -1,13 +1,13 @@
 <h1>Hi, I'm Divine! <br/><a href="https://github.com/joshmadakor1">Computer Network Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">General IT Professional</a></h1>
-<h2>👀 About Me</h2>
+<h2>👀 About Me: </h2>
 
 <h2>👨🏽‍🎓 Education: </h2>
 
 <h2>👨🏿‍💻 Certifications: </h2>
 
-<h2>💻 General IT Projects:</h2>
+<h2>💻 General IT Projects: </h2>
 
-<h2>🔐 Cyber Security Projects:</h2>
+<h2>🔐 Cyber Security Projects: </h2>
 
 
 
