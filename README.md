@@ -18,9 +18,10 @@
 
 ## 👨🏿‍💻 Certifications:
 
-- LinkedIn Learning Microsoft Office 365: Administration
+- Microsoft Office 365: Administration (LinkedIn Learning)
 - Linux Commands and Shell Scripting (IBM edx)
 - Computer Repair and Maintenance (Centennial College)
+- PowerShell: Automating IT Administration (LinkedIn Learning)
 
 
 
