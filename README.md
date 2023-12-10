@@ -1,4 +1,4 @@
-<h1>Hi, I'm Divine! <br/><a>Computer Network Technician</a>, <a>Cybersecurity Professional</a>, <a>General IT Professional</a></h1>
+<h1>Hi, I'm Divine! <br/><a>Computer Network Technician</a>, <a>Student</a>, <a>General IT Professional</a></h1>
 
 <h2>👀 About Me: </h2>
 
@@ -25,9 +25,8 @@
 
 
 
-<h2>💻 General IT Projects: </h2>
+<h2>💻 Projects: </h2>
 
-<h2>🔐 Cyber Security Projects: </h2>
 
 <!-- ## 💻 General IT Projects:
 
