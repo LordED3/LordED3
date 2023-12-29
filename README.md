@@ -2,7 +2,7 @@
 
 <h2>👀 About Me: </h2>
 
-<b> I am currently a student in Centennial College Ontario studying Computer System Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
+<b> I am currently a student in Centennial College Ontario studying Computer Systems Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
