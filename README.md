@@ -1,19 +1,32 @@
-<h1>Hi, I'm Divine! <br/><a>Computer Network Technician</a>, <a>Student</a>, <a>General IT Professional</a></h1>
+<h1>Hi, I'm Divine!</h1>
 
 <h2>👀 About Me: </h2>
 
 <b> I am currently a student in Centennial College Ontario studying Computer System Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LordED3/ICT-workshop/blob/main/powershell-file.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
+</div>
+
+
+
 ## 👨🏽‍🎓 Education:
 
-- **High School Diploma:**
-  - Stella Maris, Abuja, Nigeria (07/2017)
+- **Ontario College Advanced Diploma:**
+  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 06/2024)
 
 - **Ontario College Certificate:**
   - Computer Repair and Maintenance, Centennial College, Scarborough, ON (06/2022)
 
-- **Ontario College Advanced Diploma:**
-  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 06/2024)
+- **High School Diploma:**
+  - Stella Maris, Abuja, Nigeria (07/2017)
 
 
 ## 👨🏿‍💻 Certifications:
@@ -62,7 +75,14 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     -->
 
-<h2>📺 YouTube Videos</h2>
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight-duo&card_width=500)](https://git.io/streak-stats) 
+
+
+---
+
+
+<!-- <h2>📺 YouTube Videos</h2> -->
 
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -71,11 +91,11 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/channel/UC5kdtxmOyF4SSxdSTkzhv_w
