@@ -76,7 +76,7 @@
     -->
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight-duo&card_width=500)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight-duo&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 
 ---
