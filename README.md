@@ -93,9 +93,9 @@
 
 <h2> 🤳 Connect:</h2>
 
-[<img align="left" alt="YouTube" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LinkedIn" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/youtube-color-svgrepo-com.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/linkedin-svgrepo-com.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/instagram-svgrepo-com.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/channel/UC5kdtxmOyF4SSxdSTkzhv_w
