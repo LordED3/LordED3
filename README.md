@@ -4,7 +4,7 @@
 
 <b> I am currently a student in Centennial College Ontario studying Computer Systems Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
 
-### :hammer_and_wrench: Languages and Tools :
+<h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="50" height="50"/>&nbsp;
@@ -14,7 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/powershell-file.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
 </div>
-
+ <h2>🖥️ Technical Proficiency:</h2>
+ <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/openstack.svg" title="OpenStack" alt="OpenStack" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows Server" alt="Windows Server" width="50" height="50"/>&nbsp;
+ </div>
 
 
 ## 👨🏽‍🎓 Education:
