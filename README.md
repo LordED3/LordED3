@@ -14,13 +14,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/powershell-file.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
 </div>
- <h2>🖥️ Technical Proficiency:</h2>
+ <h2> 🗄️ Technical Proficiency:</h2>
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/openstack.svg" title="OpenStack" alt="OpenStack" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows Server" alt="Windows Server" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/vmware.svg" title="VMware esxi" alt="VMware esxi" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/proxmox.svg" title="Proxmox" alt="Proxmox" width="50" height="50"/>&nbsp;
  </div>
 
 
@@ -36,7 +38,7 @@
   - Stella Maris, Abuja, Nigeria (07/2017)
 
 
-## 👨🏿‍💻 Certifications:
+## 🧾 Certificates / Certifications:
 
 - Microsoft Office 365: Administration (LinkedIn Learning)
 - Linux Commands and Shell Scripting (IBM edx)
@@ -45,7 +47,7 @@
 
 
 
-<h2>💻 Projects: </h2>
+<h2>👷🏻 Projects: </h2>
 
 
 <h2>:fire: My Stats : </h2>
