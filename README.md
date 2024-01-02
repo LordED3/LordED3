@@ -1,8 +1,8 @@
 <h1>Hi, I'm Divine!</h1>
 
-<h2>👀 About Me: </h2>
+<h2>📂 About Me: </h2>
 
-<b> I am currently a student in Centennial College Ontario studying Computer Systems Technology - Networking I am actively looking for Oppurtunites to leverage my skills</b>
+<b> Enthusiastic and dedicated student pursuing a degree in Computer Systems Technology - Networking at Centennial College, Ontario. Committed to continuous improvement, I consistently strive to learn and adapt to emerging technologies. Eager to capitalize on my skills and knowledge by actively seeking opportunities that will allow me to contribute to and thrive in the dynamic field of technology. </b>
 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/powershell-file.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
 </div>
- <h2> 🗄️ Technical Proficiency:</h2>
+ <h2> 🗃️ Technical Proficiency:</h2>
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
@@ -59,7 +59,7 @@
 
 
 
-<h2> 🤳 Connect:</h2>
+<h2> 📡 Connect:</h2>
 
 [<img align="left" alt="YouTube" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/youtube-color-svgrepo-com.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/linkedin-svgrepo-com.svg" />][linkedin]
