@@ -1,3 +1,4 @@
+
 <h1>Hi, I'm Divine!</h1>
 
 <h2>📂 About Me: </h2>
@@ -47,19 +48,18 @@
 
 
 
-##👷🏻 Projects: ##
+## 👷🏻 Projects: 
 
 
-##🔥🔥🔥🔥 My Stats:
+## 🔥🔥🔥🔥 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
----
 
 
 
-##📡 Connect:
+## 📡 Connect:
 
 [<img align="left" alt="YouTube" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/youtube-color-svgrepo-com.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/linkedin-svgrepo-com.svg" />][linkedin]
