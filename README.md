@@ -4,7 +4,7 @@
 
 <b> I am an Enthusiastic and dedicated person pursuing a degree in Computer Systems Technology - Networking at Centennial College, Ontario. Committed to continuous improvement, I consistently strive to learn and adapt to emerging technologies. Eager to capitalize on my skills and knowledge by actively seeking opportunities that will allow me to contribute to and thrive in the dynamic field of technology. </b>
 
-<h2> :hammer_and_wrench: Languages and Tools : </h2>
+<h2> 🛠️  Languages and Tools : </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="50" height="50"/>&nbsp;
@@ -47,10 +47,10 @@
 
 
 
-<h2>👷🏻 Projects: </h2>
+##👷🏻 Projects: ##
 
 
-<h2>:fire: My Stats : </h2>
+##🔥🔥🔥🔥 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
@@ -59,7 +59,7 @@
 
 
 
-<h2> 📡 Connect:</h2>
+##📡 Connect:
 
 [<img align="left" alt="YouTube" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/youtube-color-svgrepo-com.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="70px" src="https://github.com/LordED3/icons-for-projects/blob/main/SVG/linkedin-svgrepo-com.svg" />][linkedin]
