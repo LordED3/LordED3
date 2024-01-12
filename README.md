@@ -2,7 +2,7 @@
 
 <h2>📂 About Me: </h2>
 
-<b> Enthusiastic and dedicated student pursuing a degree in Computer Systems Technology - Networking at Centennial College, Ontario. Committed to continuous improvement, I consistently strive to learn and adapt to emerging technologies. Eager to capitalize on my skills and knowledge by actively seeking opportunities that will allow me to contribute to and thrive in the dynamic field of technology. </b>
+<b> I am an Enthusiastic and dedicated person pursuing a degree in Computer Systems Technology - Networking at Centennial College, Ontario. Committed to continuous improvement, I consistently strive to learn and adapt to emerging technologies. Eager to capitalize on my skills and knowledge by actively seeking opportunities that will allow me to contribute to and thrive in the dynamic field of technology. </b>
 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
@@ -52,7 +52,7 @@
 
 <h2>:fire: My Stats : </h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight-duo&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LordED3&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
 ---
