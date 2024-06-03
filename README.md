@@ -30,7 +30,7 @@
 ## 👨🏽‍🎓 Education:
 
 - **Ontario College Advanced Diploma (Associate Degree):**
-  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 06/2024)
+  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 12/2024)
 
 - **Ontario College Certificate:**
   - Computer Repair and Maintenance, Centennial College, Scarborough, ON (06/2022)
