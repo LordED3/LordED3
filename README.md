@@ -3,7 +3,7 @@
 
 <h2>📂 About Me: </h2>
 
-<b> I am an Enthusiastic and dedicated person pursuing a degree in Computer Systems Technology - Networking at Centennial College, Ontario. Committed to continuous improvement, I consistently strive to learn and adapt to emerging technologies. Eager to capitalize on my skills and knowledge by actively seeking opportunities that will allow me to contribute to and thrive in the dynamic field of technology. </b>
+<b> Fueled by curiosity and driven by technology, I am a passionate tech enthusiast and DIY IT specialist in the early stages of my career. Dedicated to learning through hands-on experimentation, I'm eager to apply my skills and enthusiasm to solving complex problems </b>
 
 <h2> 🛠️  Languages and Tools : </h2>
 <div>
@@ -30,21 +30,15 @@
 ## 👨🏽‍🎓 Education:
 
 - **Ontario College Advanced Diploma (Associate Degree):**
-  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (Expected 12/2024)
+  - Computer Systems Technology - Networking, Centennial College, Scarborough, ON (12/2024)
 
 - **Ontario College Certificate:**
   - Computer Repair and Maintenance, Centennial College, Scarborough, ON (06/2022)
 
-- **High School Diploma:**
-  - Stella Maris, Abuja, Nigeria (07/2017)
-
 
 ## 🧾 Certificates / Certifications:
 
-- Microsoft Office 365: Administration (LinkedIn Learning)
-- Linux Commands and Shell Scripting (IBM edx)
-- Computer Repair and Maintenance (Centennial College)
-- PowerShell: Automating IT Administration (LinkedIn Learning)
+- Google IT Support Professional Certificate (Coursera)
 
 
 
